@@ -1,0 +1,6 @@
+C:\Users\rsx16\Documents\Проект кофемашина\Coffee\vending_machine\vending_machine\bin\Debug\vending_machine.exe.config
+C:\Users\rsx16\Documents\Проект кофемашина\Coffee\vending_machine\vending_machine\bin\Debug\vending_machine.exe
+C:\Users\rsx16\Documents\Проект кофемашина\Coffee\vending_machine\vending_machine\bin\Debug\vending_machine.pdb
+C:\Users\rsx16\Documents\Проект кофемашина\Coffee\vending_machine\vending_machine\obj\Debug\vending_machine.csprojResolveAssemblyReference.cache
+C:\Users\rsx16\Documents\Проект кофемашина\Coffee\vending_machine\vending_machine\obj\Debug\vending_machine.exe
+C:\Users\rsx16\Documents\Проект кофемашина\Coffee\vending_machine\vending_machine\obj\Debug\vending_machine.pdb
